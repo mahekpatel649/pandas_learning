@@ -1,5 +1,4 @@
-# pandas_learning
-My Pandas learning and practice repository, containing basic concepts, data manipulation, indexing, filtering, cleaning, and hands-on exercises using Python Pandas.
+
 # Pandas Learning 🐼
 
 This repository contains my hands-on learning and practice with **Python Pandas**.
